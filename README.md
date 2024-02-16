@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mingyan Li
+- 👋 Hi, I’m Mingyan Li, soon to be Ph.D. in Statistics and currently look for data scientist or data engineer positions!
 - 👀 I’m interested in Machine Learning, Data Science, Languages, Cultures, and hence love the combination of language and machine learning (NLP)
 - 🌱 I’m currently learning NLP and LLMs
 - 📫 email me at mingyan.li79@gmail.com to talk more about machine learning or languages, I would love to learn what you know!
